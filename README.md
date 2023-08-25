@@ -5,7 +5,8 @@ Step 2: Run excel_column_to_string_list.py <br /><br />
 ```
 python3 excel_column_to_string_list.py
 ```
-Step 3: Run main.py<br /><br />
+Step 3: Set the output of paste excel_column_strings.txt into links_list by copy + pasting the contents of the text file<br /><br />
+Step 4: Run main.py<br /><br />
 ```
 python3 main.py
 ```
@@ -13,6 +14,7 @@ python3 main.py
 When you run this and the program logs in, you may need to complete a captcha to prove you are not a robot.
 <br /><br />
 Be mindful of the fact that if you want to stop the program and run it again later, find the index of the last ran link, and put that index + 1 instead of 0 at line 40.<br /><br />
+You'll need to put the output of paste excel_column_strings.txt into links_list by copy + pasting the contents of the text file
 ```
 python3 find_index.py
 ```
