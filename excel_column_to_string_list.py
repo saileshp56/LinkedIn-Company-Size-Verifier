@@ -1,6 +1,6 @@
 # Open the input file
 # you should copy paste the VNDR_LGL_NM excel column in here
-with open('excel_column.txt', 'r') as file:
+with open('sample_excel_column.txt', 'r') as file:
     lines = file.readlines()
 
 
