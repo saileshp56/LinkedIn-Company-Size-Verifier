@@ -13,8 +13,12 @@ python3 main.py
 <br /><br />
 When you run this and the program logs in, you may need to complete a captcha to prove you are not a robot.
 <br /><br />
-Be mindful of the fact that if you want to stop the program and run it again later, find the index of the last ran link, and put that index + 1 instead of 0 at line 40.<br /><br />
+
+Be mindful of the fact that if you want to stop the program and run it again later, run find_index.py, and put the returned value instead of 0 at line 40.<br /><br />
+
 You'll need to put the output of paste excel_column_strings.txt into links_list by copy + pasting the contents of the text file
 ```
 python3 find_index.py
 ```
+<br />
+ALSO: The program will reprint the headers of the excel file, so you'll want to delete that (but it should be fine if you leave it too)
