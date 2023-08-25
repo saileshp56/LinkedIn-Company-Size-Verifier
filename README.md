@@ -22,3 +22,6 @@ python3 find_index.py
 ```
 <br />
 ALSO: The program will reprint the headers of the excel file, so you'll want to delete that (but it should be fine if you leave it too)
+<br /><br />
+
+Next Steps: On a LinkedIn company profile, you could check for Affiliated Pages, and select the LinkedIn page classified as Parent 
