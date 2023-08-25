@@ -13,4 +13,6 @@ python3 main.py
 When you run this and the program logs in, you may need to complete a captcha to prove you are not a robot.
 <br /><br />
 Be mindful of the fact that if you want to stop the program and run it again later, find the index of the last ran link, and put that index + 1 instead of 0 at line 40.<br /><br />
-```python3 find_index.py```
+```
+python3 find_index.py
+```
